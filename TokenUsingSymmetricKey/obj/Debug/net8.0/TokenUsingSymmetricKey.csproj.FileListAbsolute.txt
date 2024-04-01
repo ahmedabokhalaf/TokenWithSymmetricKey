@@ -1,0 +1,14 @@
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\bin\Debug\net8.0\TokenUsingSymmetricKey.exe
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\bin\Debug\net8.0\TokenUsingSymmetricKey.deps.json
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\bin\Debug\net8.0\TokenUsingSymmetricKey.runtimeconfig.json
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\bin\Debug\net8.0\TokenUsingSymmetricKey.dll
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\bin\Debug\net8.0\TokenUsingSymmetricKey.pdb
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\TokenUsingSymmetricKey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\TokenUsingSymmetricKey.AssemblyInfoInputs.cache
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\TokenUsingSymmetricKey.AssemblyInfo.cs
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\TokenUsingSymmetricKey.csproj.CoreCompileInputs.cache
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\TokenUsingSymmetricKey.dll
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\refint\TokenUsingSymmetricKey.dll
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\TokenUsingSymmetricKey.pdb
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\TokenUsingSymmetricKey.genruntimeconfig.cache
+D:\Projects\TokenUsingSymmetricKey\TokenUsingSymmetricKey\obj\Debug\net8.0\ref\TokenUsingSymmetricKey.dll
